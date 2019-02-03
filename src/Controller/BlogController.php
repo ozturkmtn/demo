@@ -56,7 +56,6 @@ class BlogController extends AbstractController
       }
       catch{
         throw new NotFoundExeption('Not Found!! :) ');
-
       }
 
 
